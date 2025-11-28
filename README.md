@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 # BASED - Jogo Educativo sobre Alimentação Saudável
 
 Um jogo desenvolvido em Python com Pygame que ensina sobre alimentação saudável de forma divertida através de 4 fases únicas.
-
----
 
 ## Índice
 
@@ -19,7 +17,6 @@ Um jogo desenvolvido em Python com Pygame que ensina sobre alimentação saudáv
 10. [Solução de Problemas](#solução-de-problemas)
 11. [Créditos](#créditos)
 
----
 
 ## Requisitos do Sistema
 
@@ -27,7 +24,6 @@ Um jogo desenvolvido em Python com Pygame que ensina sobre alimentação saudáv
 - **Python 3.8 ou superior** (recomendado: Python 3.11+)
 - **Pygame 2.0 ou superior**
 - **Pillow (PIL)** - Para processamento de imagens no boss
----
 
 ## Instalação
 
@@ -82,7 +78,7 @@ git clone https://github.com/yuri-iqi/jog.git
 ```bash
 pip install -r requirements.txt
 ```
-<<<<<<< HEAD
+
 
 ### Passo 3: Verificar Instalação
 
@@ -91,7 +87,6 @@ python --version
 pip show pygame
 ```
 
----
 
 ## Como Executar
 
